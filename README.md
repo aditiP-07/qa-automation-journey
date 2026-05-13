@@ -13,9 +13,9 @@ I'm a QA Engineer with ~3 years of experience in manual testing. This repo track
 
 ```
 qa-automation-journey/
-├── python-basics/          # Fundamentals: strings, loops, functions, file I/O
-├── python-mini-projects/   # Standalone scripts with real-world QA relevance
-└── playwright-tests/       # UI + API test suites (coming Month 2)
+├── python_basics/          # Fundamentals: strings, loops, functions, file I/O
+├── python-mini_projects/   # Standalone scripts with real-world QA relevance
+└── playwright_tests/       # UI + API test suites (coming Month 2)
 ```
 
 🐍 Python — What's covered so far
