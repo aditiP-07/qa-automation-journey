@@ -9,11 +9,14 @@ I'm a QA Engineer with ~3 years of experience in manual testing. This repo track
 | Month 2 | Playwright + API testing   | 🔜 Starting mid-June  |
 | Month 3 | CI/CD + portfolio projects | 🔜 Planned            |
 
-📁 Repo Structure
+## 📁 Repo Structure
+
+```
 qa-automation-journey/
 ├── python-basics/          # Fundamentals: strings, loops, functions, file I/O
 ├── python-mini-projects/   # Standalone scripts with real-world QA relevance
 └── playwright-tests/       # UI + API test suites (coming Month 2)
+```
 
 🐍 Python — What's covered so far
 Fundamentals (python-basics/)
