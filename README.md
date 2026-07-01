@@ -5,9 +5,9 @@ I'm a QA Engineer with ~3 years of experience in manual testing. This repo track
 📍 Where I'm at
 |  Phase  |            Topic           |         Status        |
 |---------|----------------------------|-----------------------|
-| Month 1 | Python fundamentals + OOP  | ✅ In progress        |
-| Month 2 | Playwright + API testing   | 🔜 Starting mid-June  |
-| Month 3 | CI/CD + portfolio projects | 🔜 Planned            |
+| Month 1 | Python fundamentals + OOP  | ✅ Done               |
+| Month 2 | Playwright + API testing   | ✅ In progress        |
+| Month 3 | CI/CD + portfolio projects | 🔜 Starting mid-Aug   |
 
 ## 📁 Repo Structure
 
