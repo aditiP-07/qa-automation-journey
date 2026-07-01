@@ -10,10 +10,10 @@ test('Automating ECommerce Web Page', async ({ page }) => {
 
     await page.locator(".card-body button").nth(1).click()
     await page.locator('ul button').nth(2).click() //for clicking on cart
-    await page.locator("button:has-text('Checkout')").click() //await page.locator('ul button').nth(2).click() (not writing this because it would confuse you later on)
+    await page.locator("button:has-text('Checkout')").click() 
     await page.locator('input').nth(2).fill("666")
     await page.locator('input').nth(3).fill("Aditi Prasad")
-    await page.getByPlaceholder("Select Country").pressSequentially("ind", {delay:150}) //sometimes it fails because the application server is slow, dealy:!50 ms gives it sufficent time to respond
+    await page.getByPlaceholder("Select Country").pressSequentially("ind", {delay:150}) 
     const dropdown = page.locator(".ta-results")
     await dropdown.waitFor()
     const optionsCount = await dropdown.locator("button").count()
